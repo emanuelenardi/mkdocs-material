@@ -26,8 +26,12 @@ theme:
     primary: teal
     accent: lime
 
-# plugins:
-#   - social
+plugins:
+  - search:
+      lang: 
+        - it
+        - en
+  - social
 
 extra:
   social:
