@@ -32,6 +32,9 @@ plugins:
         - it
         - en
   - social
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: datetime
 
 extra:
   social:
