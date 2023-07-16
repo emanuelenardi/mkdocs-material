@@ -1,4 +1,8 @@
 site_name: Documentazione
+nav:
+  - Introduzione: 'introduction.md'
+  - Homepage: index.md
+  - About: about.md
 theme:
   name: material
   features:
